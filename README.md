@@ -7,7 +7,7 @@
 ## Features
 
 - Easy to compile
-- Easy degub facility
+- Easy debug facility
 - Analysised and optimized base template
 
 ## Steps to run in your machine
